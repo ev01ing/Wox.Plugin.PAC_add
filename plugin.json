@@ -1,0 +1,12 @@
+{
+    "ID":"B4D3B69656E14D44865C8D818EAE4778",
+    "ActionKeyword":"pac",
+    "Name":"pac add",
+    "Description":"为shadowsocks增加你的网址",
+    "Author":"ev01ing",
+    "Version":"1.0.0",
+    "Language":"python",
+    "Website":"",
+    "ExecuteFileName":"main.py",
+    "IcoPath": "Images\\pic.png"
+}
