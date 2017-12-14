@@ -31,3 +31,8 @@ pac delete
 #### 依赖
 
 本程序使用了python的os, traceback, subprocess及ConfigParser包，请满足需求再使用
+
+
+#### 后记
+
+后面发现chrome的插件SwitchyOmega有这个功能，后来所有的pac功能就交给插件了，这个代码也暂时放弃了。
